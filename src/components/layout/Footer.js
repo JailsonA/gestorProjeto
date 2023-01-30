@@ -4,7 +4,7 @@ import style from "./Footer.module.css";
 function Footer() {
   return (
     <footer className={style.footer}>
-      <ul className={style.social}>
+      <ul className={style.social_list}>
         <li>
           <FaFacebook />
         </li>
@@ -15,7 +15,7 @@ function Footer() {
           <FaLinkedin />
         </li>
       </ul>
-      <p className={style.copyright}>
+      <p className={style.copy_right}>
         By <span>Janilson Andrade</span> © 2023
       </p>
     </footer>

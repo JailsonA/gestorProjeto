@@ -1,36 +1,34 @@
 .footer {
   background-color: #222;
-  color: white;
+  color: #fff;
   padding: 3em;
   text-align: center;
 }
 
-.social {
+.social_list {
   display: flex;
   justify-content: center;
-  list-style: none;
+  list-style-type: none;
 }
 
-.social li {
+.social_list li {
   margin: 0 1em;
 }
-.social li:hover {
-  transform: scale(1.1);
+
+.social_list li:hover {
   color: #ffc31d;
 }
 
-.social svg {
+.social_list svg {
   font-size: 1.5em;
   cursor: pointer;
 }
 
-.copyright {
+.copy_right {
   margin-top: 2em;
-  font-size: 1em;
-  text-align: center;
 }
 
-.copyright span {
-  color: #ffc31d;
+.copy_right span {
   font-weight: bold;
+  color: #ffc31d;
 }
