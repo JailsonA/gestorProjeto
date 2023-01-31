@@ -54,6 +54,17 @@
       "cost": 0,
       "services": [],
       "id": 5
+    },
+    {
+      "name": "carol logo",
+      "budget": "123",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 6
     }
   ],
   "categories": [
