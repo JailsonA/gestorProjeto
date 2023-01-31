@@ -34,37 +34,15 @@
       "id": 3
     },
     {
-      "name": "jand",
-      "budget": "123",
+      "name": "Bsegur",
+      "budget": "1230",
       "category": {
-        "id": "1",
-        "name": "Infra"
+        "id": "4",
+        "name": "Planejamento"
       },
       "cost": 0,
       "services": [],
       "id": 4
-    },
-    {
-      "name": "advir",
-      "budget": "132",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 5
-    },
-    {
-      "name": "carol logo",
-      "budget": "123",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 6
     }
   ],
   "categories": [
