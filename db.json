@@ -2,7 +2,7 @@
   "projects": [
     {
       "name": "DacrimaStudio Site",
-      "budget": "1200",
+      "budget": "120",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
@@ -13,7 +13,7 @@
     },
     {
       "name": "TelAdvir - Logotipo",
-      "budget": "120",
+      "budget": "150",
       "category": {
         "id": "3",
         "name": "Design"
@@ -24,10 +24,10 @@
     },
     {
       "name": "Prosegur",
-      "budget": "1235",
+      "budget": "120",
       "category": {
-        "id": "1",
-        "name": "Infra"
+        "id": "3",
+        "name": "Design"
       },
       "cost": 0,
       "services": [],
