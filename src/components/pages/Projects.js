@@ -33,7 +33,7 @@ function Projects() {
             setProjects(data)
             setRemoveLoading(true)
           }),
-      500,
+      300,
     )  
   }, [])
 
