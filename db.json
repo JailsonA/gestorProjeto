@@ -18,8 +18,21 @@
         "id": "3",
         "name": "Design"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 105,
+      "services": [
+        {
+          "name": "admin",
+          "cost": "60",
+          "description": "ok",
+          "id": "d1e9c94e-cb00-4084-831b-035e131ceaf6"
+        },
+        {
+          "name": "Janilson Oliveira",
+          "cost": "45",
+          "description": "design",
+          "id": "2f6bab0a-2cdb-42a2-be2b-bf9ba364b661"
+        }
+      ],
       "id": 3
     },
     {
@@ -32,6 +45,30 @@
       "cost": 0,
       "services": [],
       "id": 4
+    },
+    {
+      "name": "Site Wagner",
+      "budget": "1350",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 850,
+      "services": [
+        {
+          "name": "Desenvolvidor",
+          "cost": "500",
+          "description": "Backend",
+          "id": "266d437e-b27d-4b45-b3a9-e34c35b0dafe"
+        },
+        {
+          "name": "Dev Junior",
+          "cost": "350",
+          "description": "FrontEnd",
+          "id": "9b05d073-9943-4d47-9e14-9c9c4e3ee4b3"
+        }
+      ],
+      "id": 5
     }
   ],
   "categories": [
