@@ -12,17 +12,6 @@
       "id": 1
     },
     {
-      "name": "TelAdvir - Logotipo",
-      "budget": "150",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 2
-    },
-    {
       "name": "Prosegur",
       "budget": "120",
       "category": {
@@ -32,6 +21,17 @@
       "cost": 0,
       "services": [],
       "id": 3
+    },
+    {
+      "name": "TelAdvir",
+      "budget": "120",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
     }
   ],
   "categories": [
