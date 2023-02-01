@@ -25,25 +25,13 @@
         "id": "3",
         "name": "Design"
       },
-      "cost": 120,
+      "cost": 45,
       "services": [
-        {
-          "name": "admin",
-          "cost": "60",
-          "description": "ok",
-          "id": "d1e9c94e-cb00-4084-831b-035e131ceaf6"
-        },
         {
           "name": "Janilson Oliveira",
           "cost": "45",
           "description": "design",
           "id": "2f6bab0a-2cdb-42a2-be2b-bf9ba364b661"
-        },
-        {
-          "name": "logotipo",
-          "cost": "15",
-          "description": "design",
-          "id": "3764c3e5-1869-473a-a67b-4663aac0255f"
         }
       ],
       "id": 3
