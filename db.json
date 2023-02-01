@@ -7,8 +7,15 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 50,
+      "services": [
+        {
+          "name": "LandPage",
+          "cost": "50",
+          "description": "FrontEnd",
+          "id": "2e21dc1a-83a1-4b63-b020-d0c6a57aaaee"
+        }
+      ],
       "id": 1
     },
     {
@@ -18,7 +25,7 @@
         "id": "3",
         "name": "Design"
       },
-      "cost": 105,
+      "cost": 120,
       "services": [
         {
           "name": "admin",
@@ -31,6 +38,12 @@
           "cost": "45",
           "description": "design",
           "id": "2f6bab0a-2cdb-42a2-be2b-bf9ba364b661"
+        },
+        {
+          "name": "logotipo",
+          "cost": "15",
+          "description": "design",
+          "id": "3764c3e5-1869-473a-a67b-4663aac0255f"
         }
       ],
       "id": 3
